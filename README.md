@@ -1,16 +1,175 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**anirudh46-cse/anirudh46-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🤖 Anirudh Sharma</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+DevOps Engineer • Web Developer • Intelligent Systems Builder
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FFC6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Intelligent+Systems;Technology+Driven+Problem+Solver" />
+</p>
+
+---
+
+# 🧠 About Me
+
+I am a **technology-driven problem solver** passionate about building **learning systems that adapt and improve**.
+
+My work focuses on combining **Artificial Intelligence, Machine Learning, and modern web technologies** to create intelligent applications that bridge **logic with creativity**.
+
+🎓 **B.Tech – Computer Science and Engineering**  
+Panipat Institute of Engineering & Technology  
+2022 – 2026  
+
+🔬 **Summer Research Internship – SkillifyMe**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sharma23ani@gmail.com">
+<img src="https://img.shields.io/badge/Email-sharma23ani@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/anirudh-sharma-49lba5325">
+<img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/anirudh46-cse">
+<img src="https://img.shields.io/badge/GitHub-Anirudh%20Sharma-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+
+### Machine Learning & Data
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=mysql)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![WebRTC](https://img.shields.io/badge/WebRTC-green?style=for-the-badge)
+
+---
+
+# 🤖 AI Interests
+
+🧠 Machine Learning  
+📊 Data Science  
+🤖 Artificial Intelligence  
+💬 Natural Language Processing  
+⚡ Intelligent Systems  
+📈 Predictive Modeling  
+
+---
+
+# 🏆 Certifications & Achievements
+
+🏅 Machine Learning Research Intern – **NIT Delhi (2025)**  
+🏅 Machine Learning with Python Internship – **EISystems Technologies**  
+🏅 Hackathon Participant – **HackOps Savisjar 2024**  
+🏅 Advanced Diploma in Software Technology – **Supertech Computer Education**
+
+---
+
+# 🤖 AI GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudh46-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Anirush%20Sharma%20AI%20Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh46-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishraina0904&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishraina0904&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishraina0904&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Advanced GitHub Streak System
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishraina0904&theme=tokyonight&hide_border=true&ring=00FFC6&fire=FF5733&currStreakLabel=00FFC6&sideLabels=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anirudh46-cse4&theme=tokyonight&utcOffset=5"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudh46-cse&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💡 AI Philosophy
+
+> Artificial Intelligence is not about replacing humans —  
+> it is about **enhancing human intelligence through technology**.
+
+---
+
+# ⭐ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anirudh46-cse&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Built by <a href="https://github.com/anirudh46-cse">Anirudh Sharma</a>
+</p>
