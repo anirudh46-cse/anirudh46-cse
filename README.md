@@ -7,7 +7,7 @@ DevOps Engineer • Web Developer • Intelligent Systems Builder
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FFC6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Intelligent+Systems;Technology+Driven+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FFC6&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Web+Developer;Full+Stack+Developer;Building+Intelligent+Systems;Technology+Driven+Problem+Solver" />
 </p>
 
 ---
@@ -89,15 +89,6 @@ Panipat Institute of Engineering & Technology
 
 ---
 
-# 🏆 Certifications & Achievements
-
-🏅 Machine Learning Research Intern – **NIT Delhi (2025)**  
-🏅 Machine Learning with Python Internship – **EISystems Technologies**  
-🏅 Hackathon Participant – **HackOps Savisjar 2024**  
-🏅 Advanced Diploma in Software Technology – **Supertech Computer Education**
-
----
-
 # 🤖 AI GitHub Dashboard
 
 <p align="center">
@@ -155,10 +146,10 @@ Panipat Institute of Engineering & Technology
 
 ---
 
-# 💡 AI Philosophy
+# 💡 CSE Philosophy & Humor
 
-> Artificial Intelligence is not about replacing humans —  
-> it is about **enhancing human intelligence through technology**.
+> "Computer Science is no more about computers than
+> astronomy is about telescopes." - **E.W Dijksra**
 
 ---
 
@@ -171,5 +162,5 @@ Panipat Institute of Engineering & Technology
 ---
 
 <p align="center">
-⭐ Built by <a href="https://github.com/anirudh46-cse">Anirudh Sharma</a>
+ Built by <a href="https://github.com/anirudh46-cse">Anirudh Sharma</a>
 </p>
