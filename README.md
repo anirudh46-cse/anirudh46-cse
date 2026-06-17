@@ -14,9 +14,19 @@ DevOps Engineer • Web Developer • Intelligent Systems Builder
 
 # 🧠 About Me
 
-I am a **technology-driven problem solver** passionate about building **learning systems that adapt and improve**.
+I’m a Computer Science student and backend developer passionate about building scalable systems and driving impact.
 
-My work focuses on combining **Artificial Intelligence, Machine Learning, and modern web technologies** to create intelligent applications that bridge **logic with creativity**.
+💻 Backend Developer @ BlogBot Studio – architected workflows with Express.js, Redis, BullMQ
+
+🚀 Operational Lead @ SkillifyMe – streamlined processes and boosted team efficiency
+
+📚 Academic Projects – co‑created ExamPrep – PYQ Portal for accessible student resources
+
+🧑‍🏫 Mentor – guided 15+ peers, improving grades by 25%
+
+🎯 Career Goals – aiming for SaaS sales, technical project management, or client success roles
+
+---
 
 🎓 **B.Tech – Computer Science and Engineering**  
 Panipat Institute of Engineering & Technology  
@@ -101,14 +111,14 @@ Panipat Institute of Engineering & Technology
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishraina0904&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudh46-cse&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishraina0904&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishraina0904&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anirudh46-cse&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anirudh46-cse&theme=tokyonight"/>
 
 </p>
 
@@ -118,7 +128,7 @@ Panipat Institute of Engineering & Technology
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishraina0904&theme=tokyonight&hide_border=true&ring=00FFC6&fire=FF5733&currStreakLabel=00FFC6&sideLabels=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh46-cse&theme=tokyonight&hide_border=true&ring=00FFC6&fire=FF5733&currStreakLabel=00FFC6&sideLabels=FFFFFF"/>
 
 </p>
 
