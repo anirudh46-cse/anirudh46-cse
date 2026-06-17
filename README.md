@@ -88,10 +88,10 @@ Panipat Institute of Engineering & Technology
 
 ---
 
-# 🤖 AI Interests
+# 🤖 Interests
 
-🧠 Machine Learning  
-📊 Data Science  
+🧠 Deep Learning  
+📊 Data Sructure  
 🤖 Artificial Intelligence  
 💬 Natural Language Processing  
 ⚡ Intelligent Systems  
@@ -103,7 +103,7 @@ Panipat Institute of Engineering & Technology
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudh46-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Anirush%20Sharma%20AI%20Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudh46-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Anirudh%20Sharma%20AI%20Stats"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh46-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
@@ -134,7 +134,7 @@ Panipat Institute of Engineering & Technology
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anirudh46-cse4&theme=tokyonight&utcOffset=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anirudh46-cse&theme=tokyonight&utcOffset=5"/>
 
 </p>
 
