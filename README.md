@@ -14,7 +14,7 @@ DevOps Engineer • Web Developer • Intelligent Systems Builder
 
 # 🧠 About Me
 
-I’m a Computer Science student and backend developer passionate about building scalable systems and driving impact.
+I’m a **Computer Science** student and backend developer passionate about building scalable systems and driving impact.
 
 💻 Backend Developer @ BlogBot Studio – architected workflows with Express.js, Redis, BullMQ
 
@@ -91,11 +91,11 @@ Panipat Institute of Engineering & Technology
 # 🤖 Interests
 
 🧠 Deep Learning  
-📊 Data Sructure  
+📊 Data Structure  
 🤖 Artificial Intelligence  
 💬 Natural Language Processing  
-⚡ Intelligent Systems  
-📈 Predictive Modeling  
+⚡ Computer Systems  
+📈 Data Modeling  
 
 ---
 
@@ -103,7 +103,7 @@ Panipat Institute of Engineering & Technology
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudh46-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Anirudh%20Sharma%20AI%20Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anirudh46-cse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=Anirudh%20Sharma%20AI%20Stats"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh46-cse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
