@@ -157,7 +157,7 @@ Panipat Institute of Engineering & Technology
 # 💡 CSE Philosophy & Humor
 
 > "Computer Science is no more about computers than
-> astronomy is about telescopes." - **E.W Dijksra**
+> astronomy is about telescopes." - **E.W Dijkstra**
 
 ---
 
